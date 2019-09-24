@@ -1,0 +1,6 @@
+Extra Credit:		2/10
+
+Correct Output:		0/5 (unresolved syntax errors; won't run)
+Consistent Style: 	0/2 (no style points if it doesn't compile)
+Optimal Efficiency:	2/2
+Good Comments:		0/1
